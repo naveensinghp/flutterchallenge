@@ -1,6 +1,6 @@
 # flutter_challenge_1
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
