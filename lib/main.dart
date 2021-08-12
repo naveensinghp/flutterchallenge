@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_challenge_1/firstpage.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,16 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Shall We Begin', 
-      home: Scaffold(
-        appBar: AppBar(
-          
-          title: Text('Hello'),
-        ),
-        body: Center(
-          child: Text('Get The Job That Your Dream')
-        ),
-      ),
+      home: HomeScreen(),
     );
   }
 }
