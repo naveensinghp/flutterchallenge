@@ -1,6 +1,6 @@
 # flutter_challenge_1
 
-A Flutter project.
+A Flutter Practising the Layout.
 
 ## Getting Started
 
